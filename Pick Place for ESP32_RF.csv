@@ -1,0 +1,67 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ESP32_RF\Project Outputs for ESP32_RF\Pick Place for ESP32_RF.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/03/23
+Time:       03:01
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R14","5k1","TopLayer","RES_0402","433.071","748.032","180","Resistor SMD 0402"
+"C23","100n","TopLayer","CAP_0402","314.961","748.032","180","Capacitor SMD 0402 50V"
+"SW2","SKRPANE010","TopLayer","SKRPANE010","374.016","856.299","0","Tactile Switch SMD SPST"
+"D4","GREEN","TopLayer","LED_0603_GREEN","246.063","-187.008","180","LED 0402 GREEN SMD"
+"X1","40MHz","TopLayer","XTAL_2520","-374.016","-39.370","90","Crystal SMD 2520"
+"U4","BMI055","TopLayer","BMI088","324.803","59.055","270","Inertial Measurement Unit IMU 6-Axis LGA"
+"U3","W25Q16JVUXIQ","TopLayer","USON-8-2X3MM","0.000","275.591","270","16M-BIT SERIAL FLASH MEMORY WITH
+DUAL/QUAD SPI USON-8"
+"U2","ESP32-C3","TopLayer","QFN32-5x5","0.000","0.000","90","Ultra­Low­Power SoC with RISC­V Single­Core CPU Supporting IEEE 802.11b/g/n (2.4 GHz Wi­Fi) and Bluetooth® 5 (LE)"
+"U1","SPX3819M5-L-3-3/TR","TopLayer","SOT-23-5","324.803","531.496","0","500mA +3.3V Low-Noise LDO Voltage Regulator"
+"SW1","SKRPANE010","TopLayer","SKRPANE010","-374.016","856.299","0","Tactile Switch SMD SPST"
+"R13","1k","TopLayer","RES_0402","354.331","-187.008","180","Resistor SMD 0402"
+"R12","1k","TopLayer","RES_0402","354.331","-265.748","180","Resistor SMD 0402"
+"R11","1k","TopLayer","RES_0402","314.961","659.449","0","Resistor SMD 0402"
+"R10","5k1","TopLayer","RES_0402","-314.961","748.032","180","Resistor SMD 0402"
+"R9","22R","TopLayer","RES_0402","-216.536","-78.740","270","Resistor SMD 0402"
+"R8","470R","TopLayer","RES_0402","-265.748","137.795","270","Resistor SMD 0402"
+"R7","470R","TopLayer","RES_0402","-187.008","137.795","270","Resistor SMD 0402"
+"R6","22R","TopLayer","RES_0402","265.748","-78.740","180","Resistor SMD 0402"
+"R4","5k1","TopLayer","RES_0402","216.535","157.480","270","Resistor SMD 0402"
+"R3","5k1","TopLayer","RES_0402","354.331","-78.740","0","Resistor SMD 0402"
+"R2","5k1","TopLayer","RES_0402","236.220","728.346","270","Resistor SMD 0402"
+"R1","5k1","TopLayer","RES_0402","236.220","875.984","90","Resistor SMD 0402"
+"L3","2n2","TopLayer","IND_0402","-68.898","-206.693","90","Inductor SMD 0402"
+"L2","2n2","TopLayer","IND_0402","-19.685","-206.693","90","Inductor SMD 0402"
+"L1","2n2","TopLayer","IND_0402","118.110","580.709","180","Inductor SMD 0402"
+"J2","53261-0471","TopLayer","MOLEX-53261-0471_V","-344.488","472.441","270","Male Header, Pitch 1.25 mm, 1 x 4 Position, Height 3.4 mm, -40 to 85 degC, RoHS, Tape and Reel"
+"J1","TYPE-C-31-M-12","TopLayer","TYPE-C-31-M-12","0.000","782.480","180","USB Type C Connector Horizontal SMT"
+"D5","USBLC6-2SC6","TopLayer","STM-SOT23-6L_V","-226.378","275.591","90","Very low capacitance ESD protection, 3.5 pF, -40 to 125 degC, 6-Pin SOT23, RoHS, Tape and Reel"
+"D3","GREEN","TopLayer","LED_0603_GREEN","246.063","-265.748","180","LED 0402 GREEN SMD"
+"D2","GREEN","TopLayer","LED_0603_GREEN","423.228","659.449","0","LED 0402 GREEN SMD"
+"D1","USBLC6-2SC6","TopLayer","STM-SOT23-6L_V","-19.685","531.496","90","Very low capacitance ESD protection, 3.5 pF, -40 to 125 degC, 6-Pin SOT23, RoHS, Tape and Reel"
+"C22","100n","TopLayer","CAP_0402","433.071","68.898","90","Capacitor SMD 0402 50V"
+"C21","100n","TopLayer","CAP_0402","216.535","49.212","270","Capacitor SMD 0402 50V"
+"C20","100n","TopLayer","CAP_0402","-187.008","561.024","270","Capacitor SMD 0402 50V"
+"C19","100n","TopLayer","CAP_0402","-433.071","748.032","180","Capacitor SMD 0402 50V"
+"C18","10p","TopLayer","CAP_0402","-265.748","0.000","90","Capacitor SMD 0402 50V"
+"C17","10p","TopLayer","CAP_0402","-265.748","-78.740","270","Capacitor SMD 0402 50V"
+"C16","3p3","TopLayer","CAP_0402","-88.583","-265.748","0","Capacitor SMD 0402 50V"
+"C15","3p3","TopLayer","CAP_0402","-88.583","-147.638","0","Capacitor SMD 0402 50V"
+"C14","10u","TopLayer","CAP_0603","78.740","-236.221","270","Capacitor SMD 0603 10V"
+"C13","100n","TopLayer","CAP_0402","0.000","-265.748","180","Capacitor SMD 0402 50V"
+"C12","100n","TopLayer","CAP_0402","0.000","-147.638","180","Capacitor SMD 0402 50V"
+"C11","100n","TopLayer","CAP_0402","-147.638","-78.740","90","Capacitor SMD 0402 50V"
+"C10","100n","TopLayer","CAP_0402","147.638","-59.055","90","Capacitor SMD 0402 50V"
+"C9","100n","TopLayer","CAP_0402","127.953","137.795","180","Capacitor SMD 0402 50V"
+"C8","10u","TopLayer","CAP_0603","-167.323","-236.220","90","Capacitor SMD 0603 10V"
+"C7","10u","TopLayer","CAP_0603","137.795","275.591","270","Capacitor SMD 0603 10V"
+"C6","100n","TopLayer","CAP_0402","78.740","275.591","270","Capacitor SMD 0402 50V"
+"C5","100n","TopLayer","CAP_0402","364.173","442.913","0","Capacitor SMD 0402 50V"
+"C4","10u","TopLayer","CAP_0603","433.071","531.496","90","Capacitor SMD 0603 10V"
+"C3","10u","TopLayer","CAP_0603","216.535","531.496","90","Capacitor SMD 0603 10V"
+"C2","100n","TopLayer","CAP_0402","141.732","521.654","90","Capacitor SMD 0402 50V"
+"C1","100n","TopLayer","CAP_0402","94.488","521.654","90","Capacitor SMD 0402 50V"

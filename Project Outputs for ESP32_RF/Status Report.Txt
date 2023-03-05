@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ESP32_RF.PrjPcb]
+   Generated File[Pick Place for ESP32_RF.txt]
+   Generated File[Pick Place for ESP32_RF.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 3:01:43 AM On 3/5/2023
